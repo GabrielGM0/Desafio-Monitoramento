@@ -117,3 +117,11 @@ Exemplo:
 ```text
 Limite: 30
 ```
+### 6. Como executar
+O programa pode ser compilado utilizando o GDB online.
+
+Baixe o arquivo
+```text
+main.c
+```
+E com o GDB Online aberto vá no upload file, selecione o ultimo arquivo baixado "main.c" e aperte f9 para rodar o código (ou run um botão verde)
